@@ -1,0 +1,44 @@
+<!DOCtypeHTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title> {{page.title}}</title>
+	<link rel="stylesheet" href="../assets/toc.css">
+</head>
+<body>
+	<header class="fixed-header">
+    <div class="logo-container">
+			<a href="index.html">
+      <img id="header-img" src="../assets/pitara_logo.png"> </a> </div>
+      <nav id="nav-bar">
+          <a class="nav-link" href="{{site.url}}/index.html">Home</a>
+          <a class="nav-link" href="{{site.url}}/about-pitara.html">About</a>
+          <a class="nav-link" href="{{site.url}}/search-pitara.html">Search</a>
+      </nav>
+  </header>
+	<div class="pf-container">
+		<div class="pf-sidebar-container">
+			<div class="pf-sidebar" style="background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url({{page.sidebar-image}});
+			background-size: cover;">
+				<h1>{{page.title}}</h1>
+				<p> A story by {{page.author}} </p>
+			</div>
+		</div>
+		<div class="pf-content">
+
+			<h1> Chapters </h1>
+
+			<div class="pf-grid">
+				{% for item in site[page.collectionName] %}
+				<a href="..{{item.url}}">
+				<div class="pf-grid-item">
+					<img class="chapter-thumbnail" src={{item.top-image}}>
+					<h2>{{item.title}}</h2>
+				</div> </a>
+
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</body>

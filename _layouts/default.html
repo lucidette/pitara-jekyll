@@ -1,0 +1,33 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> {{ page.title }} </title>
+	<link rel="stylesheet" href="../assets/bengali.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+	<header class="fixed-header">
+		<div class="logo-container">
+			<a href="index.html">
+      <img id="header-img" src="../assets/pitara_logo.png" alt="Pitara logo"> </a> </div>
+      <nav id="nav-bar">
+				<a class="nav-link" href="{{site.url}}/index.html">Home</a>
+				<a class="nav-link" href="{{site.url}}/about-pitara.html">About</a>
+				<a class="nav-link" href="{{site.url}}/search-pitara.html">Search</a>
+      </nav>
+  </header>
+	<article>
+			<div class="top-image">
+			<img src={{page.top-image}}>
+		</div>
+		<h1> {{ page.title }} </h1>
+		{{ content }}
+		</article>
+		<div class="chapter-nav">
+			<a class = "nav-name" href="../{{page.next.url}}"> {{page.next.title}} </a>
+			{% unless page.next == nil %}
+			<a class="triangle-right" href={{page.next.url}}> </a>
+			{% endunless %}
+		</div>
+		</body>
