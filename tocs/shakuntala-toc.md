@@ -1,5 +1,5 @@
 ---
-title: Shakuntala by Abanindranath
+title: Shakuntala
 layout: toc
 author: Abanindranath Tagore
 sidebar-image: ../assets/cover_image.jpg

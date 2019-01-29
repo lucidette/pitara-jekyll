@@ -1,7 +1,7 @@
 ---
 title: কলাবতী রাজকন্যা - (১)
 layout: default
-top-image: ../assets/suorani_edited.jpg
+top-image: ../assets/sanyasi-queen.jpg
 ---
 
 এক যে, রাজা। রাজার সাত রাণী।-বড়রাণী, মেজরাণী, সেজরাণী, ন-রাণী, কনেরাণী, দুয়ােরাণী, আর ছােটরাণী।

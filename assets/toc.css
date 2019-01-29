@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911');
 
 html {
 	box-sizing: border-box;
@@ -48,16 +49,17 @@ html {
 .nav-link {
   color: #ed8320;
   margin-right: 30px;
+	font-family: 'Source Sans Pro';
 }
 body {
 	font-family: 16px;
 	line-height: 1.5;
-	font-family: 'Source Sans Pro';
+	font-family: 'Goudy Bookletter 1911', serif;
 
 }
 
 h1 {
-	font-weight: 300;
+	font-weight: 500;
 	letter-spacing: .05rem;
 
 }
