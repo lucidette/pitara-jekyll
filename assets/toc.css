@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 @import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911');
+@import url('https://cdn.rawgit.com/mirazmac/bengali-webfont-cdn/master/solaimanlipi/style.css');
 
 html {
 	box-sizing: border-box;
@@ -125,6 +126,7 @@ a {
 
 .pf-content {
 	padding: 3vw;
+	font-family: 'SolaimanLipi', serif;
 }
 /* Small screens */
 @media only screen and (max-width: 900px) {
