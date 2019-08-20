@@ -1,7 +1,7 @@
 ---
 title: বাঘ মামা আর শিয়াল ভাগ্নে
 layout: default
-top-image: ../assets/shakuntala.jpg
+top-image: ../assets/tiger_delacroix.jpg
 order: 7
 ---
 শিয়াল ভাবে,‘বাঘমামা, দাড়াঁও তোমাকে দেখাচ্ছি!’ এখন সে আর নরহরি দাসের ভয় তার পুরোনো গর্তে যায় না, সে একটা নতুন গর্ত খুজে বার করেছে।

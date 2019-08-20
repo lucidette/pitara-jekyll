@@ -25,6 +25,9 @@
 		{{ content }}
 		</article>
 		<div class="chapter-nav">
+			{% unless page.previous == nil %}
+			<a class="triangle-left" href="..{{page.previous.url}}"> </a>
+			{% endunless %}
 			<a class = "nav-name" href="..{{page.next.url}}"> {{page.next.title}} </a>
 			{% unless page.next == nil %}
 			<a class="triangle-right" href="..{{page.next.url}}"> </a>
