@@ -115,12 +115,12 @@ h5 {
 	filter:none;
 
 }
-.book-item:hover > .item-name {
+/* .book-item:hover > .item-name {
 	display:block;
-}
+}*/
 
 .item-name {
-	display: none;
+	/* display: none;*/
 	position: absolute;
 	top: 50%;
 	left: 50%;
