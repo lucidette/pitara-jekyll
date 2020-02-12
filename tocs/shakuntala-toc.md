@@ -1,7 +1,7 @@
 ---
-title: Shakuntala
+title: শকুন্তলা
 layout: toc
-author: Abanindranath Tagore
+author: অবনীন্দ্রনাথ ঠাকুর
 sidebar-image: ../assets/cover_image.jpg
 collectionName: shakuntala
 

@@ -1,7 +1,7 @@
 ---
-title: Khirer Putul
+title: ক্ষীরের পুতুল
 layout: toc
-author: Abanindranath Tagore
+author: অবনীন্দ্রনাথ ঠাকুর
 sidebar-image: ../assets/shashthi_cover.jpg
 collectionName: khirer-putul
 
