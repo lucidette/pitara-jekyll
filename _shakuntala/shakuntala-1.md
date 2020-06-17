@@ -1,6 +1,8 @@
 ---
 title: শকুন্তলা
 layout: default
+author: অবনীন্দ্রনাথ ঠাকুর
+volume: শকুন্তলা
 top-image: ../assets/shakuntala.jpg
 url: shakuntala-1.html
 order: 1

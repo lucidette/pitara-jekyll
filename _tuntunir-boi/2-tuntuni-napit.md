@@ -1,6 +1,8 @@
 ---
 title: টুনটুনি আর নাপিতের কথা
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/elephant_tuntuni.jpg
 order: 2
 ---

@@ -1,6 +1,8 @@
 ---
 title: দুষ্মন্ত
 layout: default
+author: অবনীন্দ্রনাথ ঠাকুর
+volume: শকুন্তলা
 top-image: ../assets/for_dushyant.jpg
 ---
 যে-দেশে ঋষির তপােবন ছিল, সেই দেশের রাজার নাম ছিল— দুষ্মন্ত।

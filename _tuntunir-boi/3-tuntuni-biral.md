@@ -1,6 +1,8 @@
 ---
 title: টুনটুনি আর বিড়ালের কথা
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/catbird.jpg
 order: 3
 ---

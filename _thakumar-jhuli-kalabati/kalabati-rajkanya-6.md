@@ -1,6 +1,8 @@
 ---
 title: কলাবতী রাজকন্যা - (১০) - (১১)
 layout: default
+author: দক্ষিণারঞ্জন মিত্র মজুমদার
+volume: ঠাকুরমার ঝুলি 
 top-image: ../assets/fuseli-3-witches.jpg
 ---
 

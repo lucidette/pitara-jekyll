@@ -1,6 +1,8 @@
 ---
 title: তপােবনে
 layout: default
+author: অবনীন্দ্রনাথ ঠাকুর
+volume: শকুন্তলা
 top-image: ../assets/the_ring.jpg
 ---
 

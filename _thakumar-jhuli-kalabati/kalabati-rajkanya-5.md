@@ -1,6 +1,8 @@
 ---
 title: কলাবতী রাজকন্যা - (৮) - (৯)
 layout: default
+author: দক্ষিণারঞ্জন মিত্র মজুমদার
+volume: ঠাকুরমার ঝুলি 
 top-image: ../assets/leaf-boats.jpg
 ---
 

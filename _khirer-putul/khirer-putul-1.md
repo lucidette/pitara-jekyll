@@ -1,6 +1,8 @@
 ---
 title: ক্ষীরের পুতুল - প্রথম অধ্যায়
 layout: default
+author: অবনীন্দ্রনাথ ঠাকুর
+volume: ক্ষীরের পুতুল
 top-image: ../assets/suorani_edited.jpg
 ---
 

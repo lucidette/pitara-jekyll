@@ -1,9 +1,9 @@
 ---
 
 title: ঘুমন্ত পুরী
-
 layout: default
-
+author: দক্ষিণারঞ্জন মিত্র মজুমদার
+volume: ঠাকুরমার ঝুলি 
 top-image: ../assets/parul-flower.png
 
 ---

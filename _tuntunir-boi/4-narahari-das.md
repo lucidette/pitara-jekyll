@@ -1,6 +1,8 @@
 ---
 title: নরহরি দাস
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/babygoat2.jpg
 order: 4
 ---

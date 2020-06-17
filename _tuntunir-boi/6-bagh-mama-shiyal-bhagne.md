@@ -1,6 +1,8 @@
 ---
 title: বাঘ মামা আর শিয়াল ভাগ্নে
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/tiger_delacroix.jpg
 order: 7
 ---

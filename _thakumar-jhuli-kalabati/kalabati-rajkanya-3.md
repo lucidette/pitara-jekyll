@@ -1,6 +1,8 @@
 ---
 title: কলাবতী রাজকন্যা - (8) - (৫)
 layout: default
+author: দক্ষিণারঞ্জন মিত্র মজুমদার
+volume: ঠাকুরমার ঝুলি 
 top-image: ../assets/ravi-verma-lady-fruit.jpg
 ---
 

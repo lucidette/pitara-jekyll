@@ -1,6 +1,8 @@
 ---
 title: টুনটুনি আর রাজার কথা
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/tuntuni.jpg
 order: 1
 ---

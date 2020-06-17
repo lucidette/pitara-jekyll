@@ -1,6 +1,8 @@
 ---
 title: বোকা জোলা আর শিয়ালের কথা
 layout: default
+author: উপেন্দ্রকিশোর রায় চৌধুরী
+volume: টুনটুনির বই
 top-image: ../assets/boka-jola.jpg
 order: 6
 ---

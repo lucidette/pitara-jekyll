@@ -1,6 +1,8 @@
 ---
 title: ক্ষীরের পুতুল - পঞ্চম অধ্যায়
 layout: default
+author: অবনীন্দ্রনাথ ঠাকুর
+volume: ক্ষীরের পুতুল
 top-image: ../assets/putul.jpg
 ---
 
