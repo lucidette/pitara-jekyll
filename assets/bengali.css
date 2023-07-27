@@ -67,6 +67,10 @@ article > img {
   margin: auto;
 }
 
+blockquote > p {
+  font-size: 20px !important;
+}
+
 h1 {
   font-family: 'Hind';
   text-align: center;
@@ -128,3 +132,4 @@ article > p {
   font-size: 24px;
  }
 }
+
