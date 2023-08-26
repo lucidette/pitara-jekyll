@@ -7,6 +7,7 @@ html, body {
   padding: 0;
   position: relative;
 }
+
 .fixed-header {
   width: 100%;
   display: flex;
@@ -51,13 +52,13 @@ article {
 }
 
 article > p {
+    grid-column: 2;
     letter-spacing: .05rem;
     font-weight: 500;
     font-style: normal;
     font-size: 26px;
     line-height: 1.4;
     color: rgba(0,0,0,.84);
-    grid-column: 2;
     margin-bottom:-.2em;
 }
 
@@ -67,9 +68,9 @@ article > img {
   margin: auto;
 }
 
-blockquote > p {
+/*blockquote > p {
   font-size: 20px !important;
-}
+} */
 
 h1 {
   font-family: 'Hind';
