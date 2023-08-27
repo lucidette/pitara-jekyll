@@ -1,7 +1,7 @@
 ---
-title: গড্ডালিকা প্রবাহ
+title: গড্ডলিকা প্রবাহ
 layout: toc
 author: পরশুরাম
-sidebar-image: ../assets/tuntuni_cover.jpg
+sidebar-image: ../assets/bhushundir-maath.jpg
 collectionName: gaddalika-prabaha
 ---
